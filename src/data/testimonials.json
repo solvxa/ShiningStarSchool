@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Ayesha Khan",
+    "role": "Parent of Grade 9 Student",
+    "text": "The focus on FBISE board results along with character building at SSPS is unmatched. My child has become more confident and engaged.",
+    "avatar": "https://i.pravatar.cc/150?u=1"
+  },
+  {
+    "id": 2,
+    "name": "Ali Raza",
+    "role": "Alumni (Software Engineer)",
+    "text": "SSPS provided the foundation I needed in Computer Science. The labs and teachers were instrumental in my journey to NUST.",
+    "avatar": "https://i.pravatar.cc/150?u=2"
+  },
+  {
+    "id": 3,
+    "name": "Sara Ahmed",
+    "role": "Parent of Prep Student",
+    "text": "The early childhood development program is fantastic. It's activity-based and keeps the kids genuinely excited about going to school.",
+    "avatar": "https://i.pravatar.cc/150?u=3"
+  }
+]

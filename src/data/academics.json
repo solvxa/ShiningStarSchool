@@ -1,0 +1,23 @@
+[
+  {
+    "id": "ecd",
+    "title": "Early Childhood Development",
+    "grades": "Playgroup to Prep",
+    "description": "Activity-based, motor skills, play-area integration.",
+    "highlights": ["Play-based Learning", "Motor Skills Focus", "Safe Environment"]
+  },
+  {
+    "id": "primary",
+    "title": "Primary & Middle School",
+    "grades": "Grades 1 to 8",
+    "description": "Concept-building, STEM exposure, ethics & co-curriculars.",
+    "highlights": ["STEM Exposure", "Concept Building", "Ethics Classes"]
+  },
+  {
+    "id": "secondary",
+    "title": "Secondary / FBISE Metric & FSC",
+    "grades": "Grades 9 to 12",
+    "description": "Pre-Medical, Pre-Engineering, Computer Science tracks with intensive exam prep.",
+    "highlights": ["Pre-Medical", "Pre-Engineering", "Computer Science", "Board Prep"]
+  }
+]

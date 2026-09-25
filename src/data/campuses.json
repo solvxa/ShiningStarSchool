@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Head Office",
+    "address": "Tayyab square, Misrial Road, Rawalpindi",
+    "phone": "051-5202803",
+    "mapUrl": "https://maps.google.com",
+    "images": ["/images/campus1.jpg"]
+  },
+  {
+    "id": 2,
+    "name": "Main Campus",
+    "address": "St#22, Allama Iqbal Colony, Rawalpindi",
+    "phone": "051-5528740",
+    "mapUrl": "https://maps.google.com",
+    "images": ["/images/campus2.jpg"]
+  },
+  {
+    "id": 3,
+    "name": "Campus 01",
+    "address": "St#10, Allama Iqbal Colony, Rawalpindi",
+    "phone": "051-5585240",
+    "mapUrl": "https://maps.google.com",
+    "images": ["/images/campus3.jpg"]
+  },
+  {
+    "id": 4,
+    "name": "Campus 02",
+    "address": "St#54, Allama Iqbal Colony, Rawalpindi",
+    "phone": "051-5560004",
+    "mapUrl": "https://maps.google.com",
+    "images": ["/images/campus4.jpg"]
+  },
+  {
+    "id": 5,
+    "name": "Campus 03",
+    "address": "St#61, Allama Iqbal Colony, Rawalpindi",
+    "phone": "051-5202801",
+    "mapUrl": "https://maps.google.com",
+    "images": ["/images/campus5.jpg"]
+  },
+  {
+    "id": 6,
+    "name": "Campus 04",
+    "address": "Afshan Colony, Dhoke CH, Rawalpindi",
+    "phone": "051-5128772",
+    "mapUrl": "https://maps.google.com",
+    "images": ["/images/campus1.jpg"]
+  },
+  {
+    "id": 7,
+    "name": "Campus 05",
+    "address": "Wali Mall, Garja Road, Rawalpindi",
+    "phone": "051-5681688",
+    "mapUrl": "https://maps.google.com",
+    "images": ["/images/campus2.jpg"]
+  },
+  {
+    "id": 8,
+    "name": "Campus 06",
+    "address": "Malik Colony, Garja Road, Rawalpindi",
+    "phone": "051-5190677",
+    "mapUrl": "https://maps.google.com",
+    "images": ["/images/campus3.jpg"]
+  }
+]
