@@ -68,10 +68,10 @@ export default function Home() {
           animate={{ opacity: 1, y: 0 }}
           className="flex flex-col sm:flex-row gap-4 justify-center mb-16 w-full max-w-4xl"
         >
-          <button className="bg-primary text-white px-10 py-4 rounded-xl font-bold text-lg hover:bg-primary/90 transition shadow-xl shadow-primary/20">
+          <button className="w-full sm:w-auto bg-primary text-white px-10 py-4 rounded-xl font-bold text-lg hover:bg-primary/90 transition shadow-xl shadow-primary/20">
             Book a Campus Tour
           </button>
-          <button className="bg-white text-primary border border-gray-200 px-10 py-4 rounded-xl font-bold text-lg hover:bg-gray-50 transition flex items-center justify-center gap-2 shadow-sm hover:shadow-md">
+          <button className="w-full sm:w-auto bg-white text-primary border border-gray-200 px-10 py-4 rounded-xl font-bold text-lg hover:bg-gray-50 transition flex items-center justify-center gap-2 shadow-sm hover:shadow-md">
             <Download size={20} /> Download Prospectus
           </button>
         </motion.div>
@@ -81,7 +81,7 @@ export default function Home() {
           initial={{ opacity: 0, y: 40 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.2 }}
-          className="grid grid-cols-2 md:grid-cols-4 gap-6 w-full max-w-6xl"
+          className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-6 w-full max-w-6xl"
         >
           {[
             { icon: Star, title: "40+ Years", desc: "Legacy of Excellence" },
@@ -311,10 +311,10 @@ export default function Home() {
           <h2 className="text-4xl font-bold text-primary mb-4">Life at SSPS</h2>
           <p className="text-slate max-w-2xl mx-auto mb-12">Experience the vibrant activities, sports galas, science expos and cultural events shaping our students' lives.</p>
           
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 auto-rows-[250px]">
+          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 auto-rows-[250px]">
             {/* Sports Gala */}
             <div 
-              className="col-span-2 row-span-2 bg-gray-100 rounded-3xl relative overflow-hidden group flex items-end p-6 border border-gray-200 bg-cover bg-center"
+              className="sm:col-span-2 row-span-2 bg-gray-100 rounded-3xl relative overflow-hidden group flex items-end p-6 border border-gray-200 bg-cover bg-center"
               style={{ backgroundImage: "url('/images/sport.jpg')" }}
             >
               <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent z-0 group-hover:bg-black/40 transition"></div>
@@ -344,7 +344,7 @@ export default function Home() {
             
             {/* Prize Distribution */}
             <div 
-              className="col-span-2 bg-gray-100 rounded-3xl relative overflow-hidden group flex items-end p-5 border border-gray-200 bg-cover bg-center"
+              className="sm:col-span-2 bg-gray-100 rounded-3xl relative overflow-hidden group flex items-end p-5 border border-gray-200 bg-cover bg-center"
               style={{ backgroundImage: "url('/images/prize.PNG')" }}
             >
               <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent z-0 group-hover:bg-black/40 transition"></div>
