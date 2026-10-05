@@ -1076,7 +1076,7 @@ export default function Home() {
             <div className="flex items-center gap-3.5 mb-6">
               <div className="bg-white p-2 rounded-2xl shadow-md shrink-0 w-14 h-14 flex items-center justify-center">
                 <Image 
-                  src="/images/Logo.png" 
+                  src="/images/Logo_M.png" 
                   alt="Shining Star Public School Logo" 
                   width={48} 
                   height={48} 
