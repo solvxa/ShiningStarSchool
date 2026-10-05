@@ -2,19 +2,38 @@
 
 :root {
   --background: #F8FAFC;
-  --foreground: #475569;
+  --foreground: #334155;
+  --primary: #0A192F;
+  --primary-dark: #060e1b;
+  --secondary: #D97706;
+  --secondary-light: #F59E0B;
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
   --color-primary: #0A192F;
+  --color-primary-dark: #060e1b;
   --color-secondary: #F59E0B;
+  --color-secondary-dark: #D97706;
   --color-accent: #F8FAFC;
   --color-slate: #475569;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 5rem;
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
+  font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+  overflow-x: hidden;
 }
+
+::selection {
+  background-color: #F59E0B;
+  color: #0A192F;
+}
+

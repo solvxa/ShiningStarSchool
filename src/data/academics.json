@@ -1,23 +1,35 @@
 [
   {
     "id": "ecd",
-    "title": "Early Childhood Development",
+    "title": "Early Childhood Education",
     "grades": "Playgroup to Prep",
-    "description": "Activity-based, motor skills, play-area integration.",
-    "highlights": ["Play-based Learning", "Motor Skills Focus", "Safe Environment"]
+    "description": "Activity-based sensory learning nurturing gross and fine motor skills and creativity.",
+    "highlights": [
+      "Play-Based Sensory Learning",
+      "Gross & Fine Motor Skills",
+      "Safe & Caring Environment"
+    ]
   },
   {
     "id": "primary",
     "title": "Primary & Middle School",
     "grades": "Grades 1 to 8",
-    "description": "Concept-building, STEM exposure, ethics & co-curriculars.",
-    "highlights": ["STEM Exposure", "Concept Building", "Ethics Classes"]
+    "description": "Concept-building curriculum combining STEM foundations with values and ethics.",
+    "highlights": [
+      "STEM & Analytical Thinking",
+      "Character & Ethics Education",
+      "Sports & Co-Curricular Clubs"
+    ]
   },
   {
     "id": "secondary",
-    "title": "Secondary / FBISE Metric & FSC",
+    "title": "Secondary / Matric & F.Sc",
     "grades": "Grades 9 to 12",
-    "description": "Pre-Medical, Pre-Engineering, Computer Science tracks with intensive exam prep.",
-    "highlights": ["Pre-Medical", "Pre-Engineering", "Computer Science", "Board Prep"]
+    "description": "Rigorous academic preparation in Pre-Medical, Pre-Engineering, and CS tracks.",
+    "highlights": [
+      "Pre-Med, Pre-Eng & CS Tracks",
+      "100% FBISE Board Exam Prep",
+      "College & Career Mentorship"
+    ]
   }
 ]
